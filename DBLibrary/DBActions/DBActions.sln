@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBActions", "DBActions.csproj", "{C1074224-B796-4F95-9AA9-995C86091541}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C1074224-B796-4F95-9AA9-995C86091541}.Debug.ActiveCfg = Debug|.NET
+		{C1074224-B796-4F95-9AA9-995C86091541}.Debug.Build.0 = Debug|.NET
+		{C1074224-B796-4F95-9AA9-995C86091541}.Release.ActiveCfg = Release|.NET
+		{C1074224-B796-4F95-9AA9-995C86091541}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
